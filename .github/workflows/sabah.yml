@@ -2,8 +2,6 @@ name: Yemekhane Sabah Bildirimi
 
 on:
   schedule:
-    # Pazartesi - Cuma TSİ 08:30 (UTC 05:30)
-    - cron: '30 5 * * 1-5'
   workflow_dispatch:
 
 jobs:
