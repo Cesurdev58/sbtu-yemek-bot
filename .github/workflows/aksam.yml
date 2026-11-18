@@ -2,8 +2,6 @@ name: Yemekhane Akşam Bildirimi
 
 on:
   schedule:
-    # Pazar - Perşembe TSİ 18:30 (UTC 15:30)
-    - cron: '30 15 * * 0-4'
   workflow_dispatch:
 
 jobs:
