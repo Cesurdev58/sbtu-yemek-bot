@@ -1,7 +1,6 @@
 name: Yemekhane Akşam Bildirimi
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
